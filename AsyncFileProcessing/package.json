@@ -1,0 +1,21 @@
+{
+  "name": "asyncfileprocessing",
+  "version": "1.0.0",
+  "description": "Objective\r Create a service that processes multiple files asynchronously.\r Requirements\r Implement a class `FileService` with method:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.6.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
